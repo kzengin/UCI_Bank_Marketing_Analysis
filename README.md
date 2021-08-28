@@ -65,6 +65,12 @@ UCI are running a marketing campaign in order to try and get clients to subscrib
 The provided dataset file containing 45211 records from 2018 - 2020.
 They want to see if there are any valuable insights that can be used in order to improve their marketing campaign.
 
+## Tableau Dashboard
+
+Here is the link to the analysis dashboard (**NOTE:** this dashboard does not contain all analyses performed in the entire project's analyses):
+
+https://public.tableau.com/app/profile/kerim.zengin/viz/UCI-BankMarketingProject/UCIBankMarketingAnalysis
+
 # Resources
 **Program used:** Juypter Notebook version 6.4.2
 
