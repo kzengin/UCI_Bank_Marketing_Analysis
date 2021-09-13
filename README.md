@@ -69,7 +69,7 @@ They want to see if there are any valuable insights that can be used in order to
 
 Here is the link to the analysis dashboard (**NOTE:** this dashboard does not contain all analyses performed in the entire project's analyses):
 
-https://public.tableau.com/app/profile/kerim.zengin/viz/UCI-BankMarketingProject/UCIBankMarketingAnalysis
+https://public.tableau.com/app/profile/kerim.zengin/viz/UCI-BankMarketingProjectUpdated/UCIBankMarketingAnalysis
 
 # Resources
 **Program used:** Juypter Notebook version 6.4.2
